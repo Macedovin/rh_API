@@ -17,7 +17,7 @@
 <p align="center">
   <a href="#about">About</a> •
   <a href="#preview">Preview</a> •
-  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#tech-stack-and-tools">Tech Stack</a> •
   <a href="#publication">Publication</a> •
   <a href="#author">Author</a> 
 </p>
