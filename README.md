@@ -1,21 +1,25 @@
-<p style="text-align:center">
-  <img src="./README-assets/rh_API-logo.png" width="140px" />
+<p align="center">
+  <img src="./README-assets/rh_API-logo.png" width="140px" alt="RH API logo"/>
 </p>
 
 # Rh_API
 
+<h4 align="center"> 
+	 Status: Concluded/ Under development.
+</h4>
+
 <br/>
 
-** Human Resources simple CRUD API made during the Alga Works "Mergulho Java" event.**
+**Human Resources simple CRUD API made during the Alga Works "Mergulho Java" event.**
 
 ---
 
-<p style="text-align:center">
-    <a href="#about">About</a> •
-    <a href="#preview">Preview</a> •
-	<a href="#tech-stack">Tech Stack</a> •
-	<a href="#publication">Publication</a> •
-	<a href="#author">Author</a> 
+<p align="center">
+  <a href="#about">About</a> •
+  <a href="#preview">Preview</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#publication">Publication</a> •
+  <a href="#author">Author</a> 
 </p>
 
 ---
@@ -30,24 +34,24 @@ Insert and check employees: admission date, salary, status and email for contact
 
 **ATTENTION**:
 
-  > Because it is a in-memory Database, data will not persiste on disk, being lost everytime the application is refreshed.
+> Because it is a in-memory Database, data will not persiste on disk, being lost everytime the application is refreshed.
 
 ## Preview
 
-<h1 style="vertical-align:middle">
+<h1 align="centetr">
 	<img src="./README-assets/rh_api_demo.gif" width="850" alt="Macedovin FoodExplorer default user mobile experience">
 </h1>
 
 ## Tech Stack and tools
 
 <div style="display: inline_block"><br>
-    <img style="vertical-align:middle" alt="Macedovin-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-    <img style="vertical-align:middle" alt="Macedovin-Postman" height="40" width="40" src="./README-assets/temurin-light.png">
-    <img style="vertical-align:middle" alt="Macedovin-Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-    <img style="vertical-align:middle" alt="Macedovin-IntelliJ IDEA" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg">
-    <img style="vertical-align:middle" alt="Macedovin-H2-Database" height="40" width="40" src="./README-assets/H2_database-icon.png">
-    <img style="vertical-align:middle" alt="Macedovin-Hibernate_Java Persistense API/ Jakarta Persistense" height="30" width="60" src="./README-assets/JPA_hibernat.png">
-    <img style="vertical-align:middle" alt="Macedovin-Postman" height="40" width="40" src="./README-assets/postman-icon-svgrepo-com.svg">
+    <img align="center" alt="Macedovin-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+    <img align="center" alt="Macedovin-Postman" height="40" width="40" src="./README-assets/temurin-light.png">
+    <img align="center" alt="Macedovin-Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+    <img align="center" alt="Macedovin-IntelliJ IDEA" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg">
+    <img align="center" alt="Macedovin-H2-Database" height="40" width="40" src="./README-assets/H2_database-icon.png">
+    <img align="center" alt="Macedovin-Hibernate_Java Persistense API/ Jakarta Persistense" height="30" width="60" src="./README-assets/JPA_hibernat.png">
+    <img align="center" alt="Macedovin-Postman" height="40" width="40" src="./README-assets/postman-icon-svgrepo-com.svg">
 </div>
 
 ## Publication
@@ -71,7 +75,7 @@ Insert and check employees: admission date, salary, status and email for contact
 ## Author
 
 <br/>
-<img style="float:left" src="https://avatars.githubusercontent.com/Macedovin?size=100" alt="Foto de Macedovin">
+<img align="left" src="https://avatars.githubusercontent.com/Macedovin?size=100" alt="Foto de Macedovin">
 
 Projeto criado pela [Alga Works](https://github.com/algaworks) e desenvolvido por [Vinicius&nbsp;Macedo](https://github.com/Macedovin).
 
