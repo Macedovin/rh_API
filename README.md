@@ -5,7 +5,7 @@
 # Rh_API
 
 <h4 align="center"> 
-	 Status: Concluded/ Under development.
+	 Status: Concluded.
 </h4>
 
 <br/>
