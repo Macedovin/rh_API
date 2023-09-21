@@ -28,7 +28,7 @@
 
 Project developed as a result of the teachings learned at Mergulho Java, 2023, an Alga Works event.
 
-A Backend API made using Java, Spring framework, Hibernate - Jakarta Persistense (JPA), and H2 in-memory Database, that allows you to create, list all and list, update or delete only one employee.
+A Backend API made using **Java**, **Spring framework**, **Maven**, **Hibernate - Jakarta Persistense (JPA)**, and **H2 in-memory Database**, that allows you to create, list all and list, update or delete only one employee.
 
 Insert and check employees: admission date, salary, status and email for contact.
 
@@ -48,6 +48,7 @@ Insert and check employees: admission date, salary, status and email for contact
     <img align="center" alt="Macedovin-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
     <img align="center" alt="Macedovin-Postman" height="40" width="40" src="./README-assets/temurin-light.png">
     <img align="center" alt="Macedovin-Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
+    <img align="center" alt="Macedovin-Maven" height="30" width="50" src="./README-assets/Apache_Maven_logo.svg.png">
     <img align="center" alt="Macedovin-IntelliJ IDEA" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg">
     <img align="center" alt="Macedovin-H2-Database" height="40" width="40" src="./README-assets/H2_database-icon.png">
     <img align="center" alt="Macedovin-Hibernate_Java Persistense API/ Jakarta Persistense" height="30" width="60" src="./README-assets/JPA_hibernat.png">
