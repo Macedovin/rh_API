@@ -34,12 +34,12 @@ Insert and check employees: admission date, salary, status and email for contact
 
 **ATTENTION**:
 
-> Because it is a in-memory Database, data will not persiste on disk, being lost everytime the application is refreshed.
+> Because it is a in-memory Database, data will not persist on disk and will be lost whenever the application is refreshed.
 
 ## Preview
 
 <h1 align="centetr">
-	<img src="./README-assets/rh_api_demo.gif" width="850" alt="Macedovin FoodExplorer default user mobile experience">
+	<img src="./README-assets/rh_api_demo.gif" width="850" alt="Macedovin RH_API usage">
 </h1>
 
 ## Tech Stack and tools
