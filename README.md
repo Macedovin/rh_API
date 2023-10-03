@@ -28,13 +28,44 @@
 
 Project developed as a result of the teachings learned at Mergulho Java, 2023, an Alga Works event.
 
-A Backend API made using **Java**, **Spring framework**, **Maven**, **Hibernate - Jakarta Persistense (JPA)**, and **H2 in-memory Database**, that allows you to create, list all and list, update or delete only one employee.
+A Backend API made using **Java**, **Spring Boot**, **Maven**, **Hibernate - Jakarta Persistense (JPA)**, and **H2 in-memory Database**, that allows you to create, list all and list, update or delete only one employee.
 
 Insert and check employees: admission date, salary, status and email for contact.
 
 **ATTENTION**:
 
 > Because it is a in-memory Database, data will not persist on disk and will be lost whenever the application is refreshed.
+
+The project concept aims to give some practice and learning about several things taught during the Mergulho Java event, such as:
+
+- Java plataforms;
+- Java language fundamentals;
+- Object Oriented Programming -> OOP;
+
+  - Constructors;
+  - Inheritance and overriding;
+  - Encapsulation and Java Beans pattern;
+  - Accesss modifiers;
+  - Uppcasting and Polymorphism;
+  - Abstraction;
+ 
+- Interfaces;
+- Exceptions;
+- Java Collections API;
+- Functional Programming;
+  
+  - Lambda expressions;  
+  - Method reference;
+  - Streams API;
+
+- NullPoointerException;
+  
+  - Optional class;
+
+- REST APIs; 
+- Spring ecosystem;
+
+  - Backend applications using Spring;
 
 ## Preview
 
@@ -71,6 +102,11 @@ Insert and check employees: admission date, salary, status and email for contact
 
   ```bash
   cd rh_API.git
+  ```
+- If you haven't installed Maven on your Machine, then use the following Maven command to run the Spring Boot application:
+
+  ```bash
+  ./mvnw spring-boot:run
   ```
 
 ## Author
