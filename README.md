@@ -106,7 +106,7 @@ The project concept aims to give some practice and learning about several things
 - If you haven't installed Maven on your Machine, then use the following Maven command to run the Spring Boot application:
 
   ```bash
-  mvn spring-boot:run
+  ./mvnw spring-boot:run
   ```
 
 ## Author
