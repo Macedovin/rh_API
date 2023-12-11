@@ -16,8 +16,9 @@
 
 <p align="center">
   <a href="#about">About</a> •
+  <a href="#learnings">Learnings</a> •
   <a href="#preview">Preview</a> •
-  <a href="#tech-stack-and-tools">Tech Stack</a> •
+  <a href="#tech-stack-and-tools">Tech Stack and tools</a> •
   <a href="#publication">Publication</a> •
   <a href="#author">Author</a> 
 </p>
@@ -25,47 +26,69 @@
 ---
 
 ## About
-
+<br/>
 Project developed as a result of the teachings learned at Mergulho Java, 2023, an Alga Works event.
 
 A Backend API made using **Java**, **Spring Boot**, **Maven**, **Hibernate - Jakarta Persistense (JPA)**, and **H2 in-memory Database**, that allows you to create, list all and list, update or delete only one employee.
 
 Insert and check employees: admission date, salary, status and email for contact.
 
-**ATTENTION**:
+**ATTENTION** ⚠️:
 
 > Because it is a in-memory Database, data will not persist on disk and will be lost whenever the application is refreshed.
 
+## Learnings
+<br/>
 The project concept aims to give some practice and learning about several things taught during the Mergulho Java event, such as:
+<br/>
+<br/>
 
 - Java plataforms;
 - Java language fundamentals;
-- Object Oriented Programming -> OOP;
+<details open>
+<summary>Object Oriented Programming -> OOP:</summary>
+<br/>
 
-  - Constructors;
-  - Inheritance and overriding;
-  - Encapsulation and Java Beans pattern;
-  - Accesss modifiers;
-  - Uppcasting and Polymorphism;
-  - Abstraction;
- 
+- Constructors;
+- Inheritance and overriding;
+- Encapsulation and Java Beans pattern;
+- Access modifiers;
+- Upcasting and Polymorphism;
+- Abstraction;
+
+</details>
+
 - Interfaces;
 - Exceptions;
 - Java Collections API;
-- Functional Programming;
-  
-  - Lambda expressions;  
-  - Method reference;
-  - Streams API;
 
-- NullPoointerException;
+<details open>
+<summary>Functional Programming:</summary>
+<br/>
+  
+- Lambda expressions;  
+- Method reference;
+- Streams API;
+
+</details>
+
+<details open>
+<summary>NullPointerException:</summary>
+<br/>
   
   - Optional class;
 
+</details>
+
 - REST APIs; 
-- Spring ecosystem;
+
+<details open>
+<summary>Spring ecosystem:</summary>
+<br/>
 
   - Backend applications using Spring;
+
+</details>
 
 ## Preview
 
@@ -77,9 +100,9 @@ The project concept aims to give some practice and learning about several things
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Macedovin-Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-    <img align="center" alt="Macedovin-Postman" height="40" width="40" src="./README-assets/temurin-light.png">
+    <img align="center" alt="Macedovin-Temurin_JDK" height="40" width="40" src="./README-assets/temurin-light.png">
     <img align="center" alt="Macedovin-Spring" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
-    <img align="center" alt="Macedovin-Maven" height="30" width="50" src="./README-assets/Apache_Maven_logo.svg.png">
+    <img align="center" alt="Macedovin-Maven" height="22" width="50" src="./README-assets/Apache_Maven_logo.png">
     <img align="center" alt="Macedovin-IntelliJ IDEA" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg">
     <img align="center" alt="Macedovin-H2-Database" height="40" width="40" src="./README-assets/H2_database-icon.png">
     <img align="center" alt="Macedovin-Hibernate_Java Persistense API/ Jakarta Persistense" height="30" width="60" src="./README-assets/JPA_hibernat.png">
@@ -95,13 +118,13 @@ The project concept aims to give some practice and learning about several things
 - Make a clone of this repository:
 
   ```bash
-  git clone git@github.com:Macedovin/rh_API.git
+  git clone git@github.com:Macedovin/rh_API
   ```
 
 - Access the repository directory:
 
   ```bash
-  cd rh_API.git
+  cd rh_API
   ```
 - If you haven't installed Maven on your Machine, then use the following Maven command to run the Spring Boot application:
 
