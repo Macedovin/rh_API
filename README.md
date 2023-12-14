@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 <p align="center">
   <img src="./README-assets/rh_API-logo.png" width="140px" alt="RH API logo"/>
 </p>
@@ -286,4 +285,3 @@ Projeto criado pela [Alga Works](https://github.com/algaworks) e desenvolvido po
 
 <a href="mailto:macedo.vp@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge" height="25"></a>&nbsp;
 <a href="https://www.linkedin.com/in/vinicius-macedop/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
->>>>>>> Stashed changes
